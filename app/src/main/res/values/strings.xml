@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convertidora</string>
+    <string name="convertir">convertir</string>
+    <string name="cantidad_pesos">cantidad en pesos</string>
+    <string name="Sin_Valor">Sin Valor</string>
+    <string name="mostrar">cantidad en euros</string>
+</resources>
